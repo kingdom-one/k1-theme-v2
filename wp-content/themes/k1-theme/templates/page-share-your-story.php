@@ -159,17 +159,17 @@ $query = new WP_Query(
 				<ol>
 					<li>Find a nice, quiet place that's well-lit to record your story</li>
 					<li>Record your story with a smartphone in landscape (horizontal) mode</li>
-					<li>Let us kow you'r eready to share with the form below!</li>
+					<li>Let us know you're ready to share with the form below!</li>
 				</ol>
 			</div>
 		</div>
 		<div class="row text-center">
-			<small>By sharing your story you give Kingdom One permission to edit, reformat, share or publish your story publicly.</small>
+			<small>By sharing your story you give Kingdom One permission to edit, reformat, share, or publish your story publicly.</small>
 		</div>
 		<div class="row contact justify-content-center my-5 py-5" id='share-form'>
 			<div class="col-10">
 				<h3 class="headline text-center color-primary--dark my-3">ready to share?</h3>
-				<?php echo do_shortcode( '[contact-form-7 id="ff9056a" title="Contact form 1"]' ); ?>
+				<?php echo do_shortcode( '[contact-form-7 id="36b3aef" title="Share Your Story"]' ); ?>
 			</div>
 		</div>
 	</div>
